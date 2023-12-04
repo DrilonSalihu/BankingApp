@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\drilons\\Desktop\\C#\\BankingApp\\BankingApp\\BankingApp.Tests\\BankingApp.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\drilons\\Desktop\\C#\\BankingApp\\BankingApp\\BankingApp.Tests\\BankingApp.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drilons\\Desktop\\C#\\BankingApp\\BankingApp\\BankingApp.Tests\\BankingApp.Tests.csproj",
+        "projectName": "BankingApp.Tests",
+        "projectPath": "C:\\Users\\drilons\\Desktop\\C#\\BankingApp\\BankingApp\\BankingApp.Tests\\BankingApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\drilons\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drilons\\Desktop\\C#\\BankingApp\\BankingApp\\BankingApp.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\drilons\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\drilons\\Desktop\\C#\\BankingApp\\BankingApp\\BankingApp\\BankingApp.csproj": {
+                "projectPath": "C:\\Users\\drilons\\Desktop\\C#\\BankingApp\\BankingApp\\BankingApp\\BankingApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\drilons\\Desktop\\C#\\BankingApp\\BankingApp\\BankingApp\\BankingApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\drilons\\Desktop\\C#\\BankingApp\\BankingApp\\BankingApp\\BankingApp.csproj",
+        "projectName": "BankingApp",
+        "projectPath": "C:\\Users\\drilons\\Desktop\\C#\\BankingApp\\BankingApp\\BankingApp\\BankingApp.csproj",
+        "packagesPath": "C:\\Users\\drilons\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drilons\\Desktop\\C#\\BankingApp\\BankingApp\\BankingApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\drilons\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
